@@ -1,15 +1,53 @@
-- 👋 Hi, I’m Dani
-- 👀 I know: •C# •C++ •Python •JS •HTML •CSS •RoR
-- 😄 Pronouns: He/him
+
+👋 Hi there, I’m Dani!
+
+🌏 Based in Moscow, Russia
+👨‍💻 Tech Stack:
+∘ C#
+∘ C++
+∘ Python
+∘ JS
+∘ HTML
+∘ CSS
+∘ RoR
+∘ Unity
+∘ UE
+
+😄 Pronouns: He/him
+
+📱 You can reach me on:
+- VK: [@justdanibtw](https://vk.com/justdanibtw)
+- X: [@justdanibtw](https://x.com/justdanibtw)
+- IG: [@justdanibtw](https://instagram.com/justdanibtw)
+- Discord: danieldelafantasie
+
+🎮 Let's play together on Steam: [Dante](https://steamcommunity.com/id/ItsDiktatoR)
+
+
+
+👋 Hey there! Welcome to my GitHub profile! I'm Dani, a passionate software developer based in Moscow, Russia. With a knack for coding and a love for technology, I thrive on building cool projects and exploring new concepts in the world of programming.
+
+👨‍💻 I'm well-versed in a variety of languages and technologies, including C#, C++, Python, JavaScript, HTML, CSS, Ruby on Rails, Unity, and Unreal Engine. Whether it's crafting elegant backend solutions or designing captivating frontend interfaces, I'm always up for a challenge.
+
+😄 When it comes to pronouns, you can call me he/him.
+
+📱 Feel free to connect with me on various platforms:
+
+VK: @justdanibtw
+X: @justdanibtw
+IG: @justdanibtw
+Discord: danieldelafantasie
+
+🎮 And hey, if you're into gaming, let's team up on Steam! Let's build, code, and play together!
 
 
 
 
- Hi there, I'm a full-stack developer with experience in a variety of programming languages and frameworks. I have a strong background in C#, C++, and Python, and I'm also proficient in JavaScript, HTML, and CSS. I have experience with Ruby on Rails (RoR) and I'm always looking to expand my skillset and learn new technologies.
 
-I'm passionate about building clean, efficient, and maintainable code, and I strive to write software that is both user-friendly and scalable. I'm a team player who enjoys collaborating with others to solve complex problems and deliver high-quality solutions.
 
-If you're looking for a dedicated and experienced developer to join your team, I'd love to hear from you. Let's build something great together!
+
+
+
 
 
 

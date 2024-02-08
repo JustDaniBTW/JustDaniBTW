@@ -9,7 +9,6 @@
 ∘ JS
 ∘ HTML
 ∘ CSS
-∘ RoR
 ∘ Unity
 ∘ UE
 

@@ -26,7 +26,7 @@
 
 👋 Hey there! Welcome to my GitHub profile! I'm Dani, a passionate software developer based in Moscow, Russia. With a knack for coding and a love for technology, I thrive on building cool projects and exploring new concepts in the world of programming.
 
-👨‍💻 I'm well-versed in a variety of languages and technologies, including C#, C++, Python, JavaScript, HTML, CSS, Ruby on Rails, Unity, and Unreal Engine. Whether it's crafting elegant backend solutions or designing captivating frontend interfaces, I'm always up for a challenge.
+👨‍💻 I'm well-versed in a variety of languages and technologies, including C#, C++, Python, JavaScript, HTML, CSS, Unity, and Unreal Engine. Whether it's crafting elegant backend solutions or designing captivating frontend interfaces, I'm always up for a challenge.
 
 😄 When it comes to pronouns, you can call me he/him.
 
